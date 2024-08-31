@@ -19,4 +19,4 @@ The FPS system will allow the player 5 equip slots. They are:
 - [ ] [Gun](gun.md)
 - [ ] Leaning mechanism
   - [ ] Q to lean left
-  - [ ] E to lean left
+  - [ ] E to lean right
