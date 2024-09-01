@@ -6,3 +6,4 @@
 - [ ] action mode
 - [ ] bullet type
 - [ ] gun name
+- [ ] Crosshair
