@@ -7,6 +7,9 @@
                 "$path": "src/ServerScriptService"
             }
         },
+        "ReplicatedStorage": {
+            "$path": "src/ReplicatedStorage"
+        },
         "StarterPlayer": {
             "StarterCharacterScripts": {
                 "Client": {
