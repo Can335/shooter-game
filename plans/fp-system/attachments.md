@@ -44,3 +44,20 @@ with this we can easily just make an main reload and aim method and equip and un
 attack etc
 
 To make these animations similar to real animations and realistic we can add springs/camera shaking while animating and make it an little good package
+
+-Attachment 1.1 
+
+Back to modifying guns/attachment
+
+
+lets go over the attachment types
+
+Animatingattachments:
+
+this should be obvious this is for moving the arms to spesific pos like the mag etc and grip.
+
+-ModifyAttachmentNewPossibility:
+
+This attachment is inherited by the current part of the gun to show if it extends to a new attachmentpossibility
+
+this is great to built a gun from ground up. And realisticly building it like in real life and attaching parts
