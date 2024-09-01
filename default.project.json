@@ -8,7 +8,8 @@
             }
         },
         "ReplicatedStorage": {
-            "$path": "src/ReplicatedStorage"
+            "$path": "src/ReplicatedStorage",
+            "$ignoreUnknownInstances": true
         },
         "StarterPlayer": {
             "StarterCharacterScripts": {
