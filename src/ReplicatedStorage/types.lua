@@ -1,4 +1,7 @@
-export type Gun = {}
+export type Gun = {
+    GetHandle: (self: Gun) -> BasePart,
+    GetDescendants: (self: Gun) -> { Instance },
+}
 
 export type Viewmodel = {
     Enable: (self: Viewmodel) -> (),
@@ -6,7 +9,9 @@ export type Viewmodel = {
 }
 
 export type Arms = {
+    Enable: (self: Arms) -> (),
     Update: (self: Arms) -> (),
+    EquipGun: (self: Arms, gun: Gun) -> (),
 }
 
 return nil
